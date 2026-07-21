@@ -10,7 +10,7 @@
 
 这是我的猫“乖乖”，本宠物基于乖乖的外观制作，它现在非常健康，非常可爱：
 
-![我的猫乖乖](previews/guai-guai-reference.jpeg)
+<img src="previews/guai-guai-reference.jpeg" alt="我的猫乖乖" width="360">
 
 ## 快速安装
 

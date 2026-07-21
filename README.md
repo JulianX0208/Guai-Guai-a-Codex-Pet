@@ -27,7 +27,7 @@ cp -R pets/bluebell-cat ~/.codex/pets/bluebell-cat
 也可以直接运行安装脚本：
 
 ```bash
-./install.sh
+sh install.sh
 ```
 
 ## 让 Codex Agent 帮你部署
